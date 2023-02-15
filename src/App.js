@@ -3,6 +3,7 @@ import { Chart } from "react-charts";
 import { getOpenPrsPerTeam } from "./GitHub";
 
 const teams = [
+  "Official",
   "Browse to Order",
   "Order to Cash",
   "Wear to Care",
